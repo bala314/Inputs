@@ -1,0 +1,17 @@
+{"name":"Martin","sal":80000,"city":"newjersey","address":[{"hno":"1-41-165","street":"diwanstreet","zip":248001}]}
+{"name":"Mike","sal":75000,"city":"newyork"}
+{"name":"Andrew","sal":87000,"city":"peru","dept":"LOGISTICS"}
+{"name":"Teena","sal":57000,"dept":"HRD"}
+{"name":"clark","sal":92000,"city":"elizabeth","address":"USA"}
+{"name":"Ameesh","sal":65000,"city":"boston"}
+{"name":"chloenicole","sal":78000,"city":"atlanta","dept":"TRANSPORT"}
+{"name":"AaakashJain","sal":77000,"dept":"MARKETING"}
+{"name":"daniel","sal":82000,"city":"jerseycity","address":"USA"}
+{"name":"Richard","sal":63000,"city":"Vienna"}
+{"name":"Faisal","sal":71000,"city":"Dornbirn","dept":"IMMIGRATION"}
+{"name":"Justin","sal":59000,"dept":"FOREIGNTRADE"}
+{"name":"Flexwala","sal":92000,"city":"losangeles","address":"UK"}
+{"name":"Glenn","sal":53000,"city":"chicago"}
+{"name":"robert frost","sal":71000,"city":"Dornbirn","dept":"PUBLIC AFFAIRS"}
+{"name":"sabastian adward","sal":67000,"dept":"CLINICAL"}
+
